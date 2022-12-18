@@ -1,0 +1,31 @@
+.body{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.my__photo{
+    width: 250px;
+    height: 250px;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 30px;
+}
+
+.rsphoto{
+    width: 100px;
+    height: 100px;
+}
+
+.gitphoto{
+    width: 100px;
+    height: 100px;
+}
